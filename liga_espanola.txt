@@ -1,0 +1,22 @@
+         Primera División 2020/21
+===================================
+SD Eibar                  None Spain 
+RC Celta Vigo             CEL  Spain 
+Granada CF                GRA  Spain 
+Athletic Club Bilbao      ATH  Spain 
+Cádiz CF                  None Spain 
+CA Osasuna                OSA  Spain 
+FC Barcelona              BAR  Spain 
+Elche CF                  ELC  Spain 
+Real Madrid               RMD  Spain 
+Getafe CF                 GET  Spain 
+Deportivo Alavés          None Spain 
+Real Betis                BET  Spain 
+Real Valladolid CF        VID  Spain 
+Real Sociedad             RSO  Spain 
+Villarreal CF             VLL  Spain 
+SD Huesca                 None Spain 
+Valencia CF               VAL  Spain 
+Levante UD                LEV  Spain 
+Atlético Madrid           ATL  Spain 
+Sevilla FC                SEV  Spain 

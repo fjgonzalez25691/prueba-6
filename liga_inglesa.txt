@@ -1,0 +1,22 @@
+         Premier League 2020/21
+===================================
+Burnley FC                BUR  England 
+Manchester United FC      MUN  England 
+Manchester City FC        MCI  England 
+Aston Villa FC            AVL  England 
+Fulham FC                 FUL  England 
+Arsenal FC                ARS  England 
+Crystal Palace FC         CRY  England 
+Southampton FC            SOU  England 
+Liverpool FC              LIV  England 
+Leeds United FC           LEE  England 
+West Ham United FC        WHU  England 
+Newcastle United FC       NEW  England 
+West Bromwich Albion FC   WBA  England 
+Leicester City FC         LEI  England 
+Tottenham Hotspur FC      TOT  England 
+Everton FC                EVE  England 
+Sheffield United FC       SHU  England 
+Wolverhampton Wanderers FC WOL  England 
+Brighton & Hove Albion FC BHA  England 
+Chelsea FC                CHE  England 
